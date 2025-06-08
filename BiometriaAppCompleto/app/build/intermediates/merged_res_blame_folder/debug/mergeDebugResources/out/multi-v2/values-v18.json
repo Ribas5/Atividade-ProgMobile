@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.biometriaapp-mergeDebugResources-27:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ribamar\\.gradle\\caches\\8.11.1\\transforms\\ec0b1627c0ff20de8212f23de8dd8d68\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

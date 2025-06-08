@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.biometriaapp-debug-29:/layout_activity_main.xml.flat",
+        "source": "com.example.biometriaapp-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.biometriaapp-debug-29:/layout_activity_second.xml.flat",
+        "source": "com.example.biometriaapp-main-31:/layout/activity_second.xml"
+    }
+]

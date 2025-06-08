@@ -1,0 +1,248 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml:1:1-18:12
+INJECTED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml:1:1-18:12
+INJECTED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml:1:1-18:12
+INJECTED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml:1:1-18:12
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\24e89208862969680fe03fd8d78c862e\transformed\material-1.9.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.biometric:biometric:1.2.0-alpha04] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\fd42d1cb93755a683195ae69e06cc0a3\transformed\biometric-1.2.0-alpha04\AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\40c9d52fff0b008aa8d6e7f83c2d7190\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\838f94c5980a61491f3b59d513b7561a\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\ec0b1627c0ff20de8212f23de8dd8d68\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\af3c14e46a1338b92dc884070f526a4b\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\dc916f20fd98854c4284e3f093c126e6\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\fcc31de58c5095f7d77e12d4dff1440e\transformed\jetified-activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\0bff8f2481f58a6804f225fdea34663b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\0ca52a0b2aeab0f34f913b9ed44bc880\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\1aa5b1234dd269b576cbe913fc371031\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\a29083c4471d82691d36bdb7d93e16cc\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\d78caeefe195f55fbde42b77b1893aa6\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\11e1eb9764c89819b2c7b8304a09d0e1\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\680d80f3ab1b7f3a5f0e8f5f4b143092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\8b7d66ec3af34cac0e8eb16d74ddac9f\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\6c08c359908e182320e789ee5a9abeff\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\c36b72518a77648055f76c82d67d1b24\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\5cc097d9b45e77fbb6e5a6f635002861\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\f7a2a13bb276e65e7336ff4fe347dc4d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\b760d629d5defb311cecdbf3cb7f8e0c\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\1d7739c9e339daaea1ca1d20e97859f9\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\52f03597b0f4402d6c8d534f0dbec190\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\d2f56c4304e82c0992f8c830bd1194a3\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\c3eda512ca8ad9543aca00645067e538\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\b9a34a4f888cf6cf514065028ea1dca9\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\f31836d5491d5515d287301b9d61c346\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\e63fe4bf089faaa86cc1c07210bc39f4\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\44a45959acd9cc20cfa731b789c8852a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\9d439bef5e5e34818fb5286149c9bd03\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\45517c6cc138d4fc6b66a5f449121c99\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\c1dff54caf4252ebe7fa7efc2d79f91e\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\889a027a48aa1469264d3a8c9769cdde\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\102e9dec53abc4a5ef28209c0f1643e2\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\044e493034ca7d7b370aead0c4f1d593\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\7c6148bca8791b430a89386d27c5c86e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\53ea61dfeb482516f833c9dafbe225ea\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\4d34f18df836c76d2d7ae29fe3cb06bf\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\446671ac6a3c2f10f40e88791e92a8c4\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\804e565313b48fd4318cadf4e9b6d9d2\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\c5afa998dd008bcd2d31a0354fdbf439\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml:3:5-17:19
+INJECTED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml:3:5-17:19
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\24e89208862969680fe03fd8d78c862e\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\24e89208862969680fe03fd8d78c862e\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\838f94c5980a61491f3b59d513b7561a\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\838f94c5980a61491f3b59d513b7561a\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\680d80f3ab1b7f3a5f0e8f5f4b143092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\680d80f3ab1b7f3a5f0e8f5f4b143092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\d2f56c4304e82c0992f8c830bd1194a3\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\d2f56c4304e82c0992f8c830bd1194a3\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\44a45959acd9cc20cfa731b789c8852a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\44a45959acd9cc20cfa731b789c8852a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\889a027a48aa1469264d3a8c9769cdde\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\889a027a48aa1469264d3a8c9769cdde\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\102e9dec53abc4a5ef28209c0f1643e2\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\102e9dec53abc4a5ef28209c0f1643e2\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\d2f56c4304e82c0992f8c830bd1194a3\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml:6:9-35
+	android:label
+		ADDED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml:5:9-37
+	android:allowBackup
+		ADDED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml:4:9-35
+	android:theme
+		ADDED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.example.biometriaapp.SecondActivity
+ADDED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml:8:9-52
+	android:name
+		ADDED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml:8:19-49
+activity#com.example.biometriaapp.MainActivity
+ADDED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml:9:9-16:20
+	android:exported
+		ADDED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml:10:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml:14:27-74
+uses-sdk
+INJECTED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\24e89208862969680fe03fd8d78c862e\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\24e89208862969680fe03fd8d78c862e\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.biometric:biometric:1.2.0-alpha04] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\fd42d1cb93755a683195ae69e06cc0a3\transformed\biometric-1.2.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.biometric:biometric:1.2.0-alpha04] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\fd42d1cb93755a683195ae69e06cc0a3\transformed\biometric-1.2.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\40c9d52fff0b008aa8d6e7f83c2d7190\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\40c9d52fff0b008aa8d6e7f83c2d7190\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\838f94c5980a61491f3b59d513b7561a\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\838f94c5980a61491f3b59d513b7561a\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\ec0b1627c0ff20de8212f23de8dd8d68\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\ec0b1627c0ff20de8212f23de8dd8d68\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\af3c14e46a1338b92dc884070f526a4b\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\af3c14e46a1338b92dc884070f526a4b\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\dc916f20fd98854c4284e3f093c126e6\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\dc916f20fd98854c4284e3f093c126e6\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\fcc31de58c5095f7d77e12d4dff1440e\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\fcc31de58c5095f7d77e12d4dff1440e\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\0bff8f2481f58a6804f225fdea34663b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\0bff8f2481f58a6804f225fdea34663b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\0ca52a0b2aeab0f34f913b9ed44bc880\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\0ca52a0b2aeab0f34f913b9ed44bc880\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\1aa5b1234dd269b576cbe913fc371031\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\1aa5b1234dd269b576cbe913fc371031\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\a29083c4471d82691d36bdb7d93e16cc\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\a29083c4471d82691d36bdb7d93e16cc\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\d78caeefe195f55fbde42b77b1893aa6\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\d78caeefe195f55fbde42b77b1893aa6\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\11e1eb9764c89819b2c7b8304a09d0e1\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\11e1eb9764c89819b2c7b8304a09d0e1\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\680d80f3ab1b7f3a5f0e8f5f4b143092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\680d80f3ab1b7f3a5f0e8f5f4b143092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\8b7d66ec3af34cac0e8eb16d74ddac9f\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\8b7d66ec3af34cac0e8eb16d74ddac9f\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\6c08c359908e182320e789ee5a9abeff\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\6c08c359908e182320e789ee5a9abeff\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\c36b72518a77648055f76c82d67d1b24\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\c36b72518a77648055f76c82d67d1b24\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\5cc097d9b45e77fbb6e5a6f635002861\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\5cc097d9b45e77fbb6e5a6f635002861\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\f7a2a13bb276e65e7336ff4fe347dc4d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\f7a2a13bb276e65e7336ff4fe347dc4d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\b760d629d5defb311cecdbf3cb7f8e0c\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\b760d629d5defb311cecdbf3cb7f8e0c\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\1d7739c9e339daaea1ca1d20e97859f9\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\1d7739c9e339daaea1ca1d20e97859f9\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\52f03597b0f4402d6c8d534f0dbec190\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\52f03597b0f4402d6c8d534f0dbec190\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\d2f56c4304e82c0992f8c830bd1194a3\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\d2f56c4304e82c0992f8c830bd1194a3\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\c3eda512ca8ad9543aca00645067e538\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\c3eda512ca8ad9543aca00645067e538\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\b9a34a4f888cf6cf514065028ea1dca9\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\b9a34a4f888cf6cf514065028ea1dca9\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\f31836d5491d5515d287301b9d61c346\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\f31836d5491d5515d287301b9d61c346\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\e63fe4bf089faaa86cc1c07210bc39f4\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\e63fe4bf089faaa86cc1c07210bc39f4\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\44a45959acd9cc20cfa731b789c8852a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\44a45959acd9cc20cfa731b789c8852a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\9d439bef5e5e34818fb5286149c9bd03\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\9d439bef5e5e34818fb5286149c9bd03\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\45517c6cc138d4fc6b66a5f449121c99\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\45517c6cc138d4fc6b66a5f449121c99\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\c1dff54caf4252ebe7fa7efc2d79f91e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\c1dff54caf4252ebe7fa7efc2d79f91e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\889a027a48aa1469264d3a8c9769cdde\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\889a027a48aa1469264d3a8c9769cdde\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\102e9dec53abc4a5ef28209c0f1643e2\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\102e9dec53abc4a5ef28209c0f1643e2\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\044e493034ca7d7b370aead0c4f1d593\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\044e493034ca7d7b370aead0c4f1d593\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\7c6148bca8791b430a89386d27c5c86e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\7c6148bca8791b430a89386d27c5c86e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\53ea61dfeb482516f833c9dafbe225ea\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\53ea61dfeb482516f833c9dafbe225ea\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\4d34f18df836c76d2d7ae29fe3cb06bf\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\4d34f18df836c76d2d7ae29fe3cb06bf\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\446671ac6a3c2f10f40e88791e92a8c4\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\446671ac6a3c2f10f40e88791e92a8c4\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\804e565313b48fd4318cadf4e9b6d9d2\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\804e565313b48fd4318cadf4e9b6d9d2\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\c5afa998dd008bcd2d31a0354fdbf439\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\c5afa998dd008bcd2d31a0354fdbf439\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Ribamar\Desktop\Atividade antiga\BiometriaAppCompleto\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from [androidx.biometric:biometric:1.2.0-alpha04] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\fd42d1cb93755a683195ae69e06cc0a3\transformed\biometric-1.2.0-alpha04\AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.biometric:biometric:1.2.0-alpha04] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\fd42d1cb93755a683195ae69e06cc0a3\transformed\biometric-1.2.0-alpha04\AndroidManifest.xml:24:22-69
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from [androidx.biometric:biometric:1.2.0-alpha04] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\fd42d1cb93755a683195ae69e06cc0a3\transformed\biometric-1.2.0-alpha04\AndroidManifest.xml:27:5-74
+	android:name
+		ADDED from [androidx.biometric:biometric:1.2.0-alpha04] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\fd42d1cb93755a683195ae69e06cc0a3\transformed\biometric-1.2.0-alpha04\AndroidManifest.xml:27:22-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\680d80f3ab1b7f3a5f0e8f5f4b143092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\44a45959acd9cc20cfa731b789c8852a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\44a45959acd9cc20cfa731b789c8852a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\102e9dec53abc4a5ef28209c0f1643e2\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\102e9dec53abc4a5ef28209c0f1643e2\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\680d80f3ab1b7f3a5f0e8f5f4b143092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\680d80f3ab1b7f3a5f0e8f5f4b143092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\680d80f3ab1b7f3a5f0e8f5f4b143092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\680d80f3ab1b7f3a5f0e8f5f4b143092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\680d80f3ab1b7f3a5f0e8f5f4b143092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\680d80f3ab1b7f3a5f0e8f5f4b143092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\680d80f3ab1b7f3a5f0e8f5f4b143092\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\d2f56c4304e82c0992f8c830bd1194a3\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\d2f56c4304e82c0992f8c830bd1194a3\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\d2f56c4304e82c0992f8c830bd1194a3\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.example.biometriaapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\d2f56c4304e82c0992f8c830bd1194a3\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\d2f56c4304e82c0992f8c830bd1194a3\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\d2f56c4304e82c0992f8c830bd1194a3\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\d2f56c4304e82c0992f8c830bd1194a3\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\d2f56c4304e82c0992f8c830bd1194a3\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.biometriaapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\d2f56c4304e82c0992f8c830bd1194a3\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\d2f56c4304e82c0992f8c830bd1194a3\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\44a45959acd9cc20cfa731b789c8852a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\44a45959acd9cc20cfa731b789c8852a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ribamar\.gradle\caches\8.11.1\transforms\44a45959acd9cc20cfa731b789c8852a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
