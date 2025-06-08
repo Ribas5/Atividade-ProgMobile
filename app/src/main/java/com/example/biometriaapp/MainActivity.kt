@@ -18,6 +18,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        val biometricManager = BiometricManager.from(this)
 
         executor = ContextCompat.getMainExecutor(this)
         biometricPrompt = BiometricPrompt(this, executor, object : BiometricPrompt.AuthenticationCallback() {
@@ -37,7 +38,8 @@ class MainActivity : AppCompatActivity() {
             }
         })
 
-        val biometricManager = BiometricManager.from(this)
+
+        //Você pode usar outras autenticações mudando o BiometricManager.Authenticators.BIOMETRIC_STRONG
         if (biometricManager.canAuthenticate(BiometricManager.Authenticators.BIOMETRIC_STRONG) == BiometricManager.BIOMETRIC_SUCCESS) {
             promptInfo = BiometricPrompt.PromptInfo.Builder()
                 .setTitle("Autenticação Biométrica")
